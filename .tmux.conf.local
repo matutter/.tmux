@@ -219,8 +219,8 @@ tmux_conf_battery_vbar_palette='gradient'
 #tmux_conf_battery_vbar_palette='#d70000,#ff5f00,#5fff00'  # red, orange, green
 
 # symbols used to indicate whether battery is charging or discharging
-tmux_conf_battery_status_charging='↑🔋'     # U+1F50B
-tmux_conf_battery_status_discharging='↓🔋'  # U+1F50B
+tmux_conf_battery_status_charging='↑'       # U+2192
+tmux_conf_battery_status_discharging='↓'    # U+2193
 #tmux_conf_battery_status_charging='⚡'     # U+26A1
 #tmux_conf_battery_status_discharging='🔋'  # U+1F50B
 
