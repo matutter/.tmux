@@ -1,0 +1,6 @@
+Wed Aug 23 21:00:24 EDT 2017 DEBUG - this is my log
+Wed Aug 23 21:00:30 EDT 2017 ERROR - this is my log
+Wed Aug 23 21:00:34 EDT 2017 INFO - this is my log
+Wed Aug 23 21:00:41 EDT 2017 SUCCESS - this is my log
+Wed Aug 23 21:00:46 EDT 2017 WARNING - this is my log
+Wed Aug 23 21:00:52 EDT 2017 PRIMARY - this is my log
